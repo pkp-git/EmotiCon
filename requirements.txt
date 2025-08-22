@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+plotly
+transformers
+sentence-transformers
+PyPDF2
+assemblyai
+soundfile
+librosa
+google-generativeai
+dotenv
