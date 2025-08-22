@@ -54,14 +54,7 @@ Go to **http://localhost:8501** and explore emotion analysis and recommendations
 
 ---
 
-## Contributing
-
-💡 Have ideas or improvements? Found a bug? Want to enhance EmotiCon?  
-Fork the repo, make your changes, and submit a **pull request**!
-
----
-
-## 📜 License
+##  License
 
 📝 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
@@ -69,4 +62,4 @@ Fork the repo, make your changes, and submit a **pull request**!
 
 ## Acknowledgements
 
-Special thanks to the open-source community and all contributors who made this project possible!
+The EmotiCon project was started and made by me and yashdesai007 (https://github.com/YashDesai007). Our research paper about EmotiCon, and the underlying issues it addresses has been accepted at ICCE 2025! We'll link it here soon for you to read. Thank you to the open source community and everyone who made this possible.
