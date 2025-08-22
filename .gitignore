@@ -1,0 +1,26 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data and results
+segments.csv
+segments_with_context.csv
+map.json
+
+# Ignore environment and secret files
+.env
+.env.*
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
